@@ -8,6 +8,6 @@ As of Now, The Functional Code simulates 2 AI bots running on different probabil
 
 ![Image 1](https://github.com/Kadle11/Battleship/blob/master/Images/BattleShip.gif)
 
-The Hunt and Target With Parity is sligtly better than the one Without Parity and hence we can see that the Bot using that algorithm wins.
+The Hunt and Target With Parity is slightly better than the one Without Parity and hence we can see that the Bot using that algorithm wins.
 
 
